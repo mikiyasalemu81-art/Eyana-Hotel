@@ -38,9 +38,9 @@ export const roomsData: Room[] = [
       fr: 'Vue sur la ville',
     },
     images: [
-      'https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80',
+      '/images/hr-bedroom-1.jpg',
+      '/images/hotel-room-1.jpg',
+      '/images/hr-room-desk.jpg',
     ],
     amenities: [
       'High-Speed Wi-Fi',
@@ -91,9 +91,9 @@ export const roomsData: Room[] = [
       fr: 'Vue sur la ville et le jardin',
     },
     images: [
-      'https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80',
+      '/images/hr-bedroom-2.jpg',
+      '/images/hr-bedroom-4.jpg',
+      '/images/hr-sofa-lounge.jpg',
     ],
     amenities: [
       'High-Speed Wi-Fi',
@@ -144,9 +144,9 @@ export const roomsData: Room[] = [
       fr: 'Vue panoramique sur Meskel Square',
     },
     images: [
-      'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80',
+      '/images/hr-bedroom-3.jpg',
+      '/images/hr-kitchenette.jpg',
+      '/images/hotel-exterior.jpg',
     ],
     amenities: [
       'High-Speed Wi-Fi',
@@ -197,8 +197,8 @@ export const roomsData: Room[] = [
       fr: 'Vue sur cour intérieure calme',
     },
     images: [
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80',
-      'https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=80',
+      '/images/hr-room-lounge.jpg',
+      '/images/hr-room-detail.jpg',
     ],
     amenities: [
       'High-Speed Wi-Fi',
